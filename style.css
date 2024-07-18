@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+}
+
+.friends-list, .referral {
+  margin-bottom: 20px;
+}
+
+.friends-list h2, .referral h2 {
+  margin-top: 0;
+}
+
+#friend-list {
+  list-style: none;
+  padding: 0;
+}
+
+#friend-list li {
+  margin-bottom: 5px;
+}
